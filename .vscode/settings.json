@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 500,
+      "driver": "SQLite",
+      "name": "esus",
+      "database": "C:\\AppServ\\www\\esus\\indicadores\\db\\scsus.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}

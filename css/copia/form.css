@@ -1,0 +1,93 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.titulo {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #666666;
+}
+.rotulo {
+	font-size: 12px;
+	color: #666666;
+	text-align: right;
+	vertical-align: middle;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCCCCC;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+
+}
+.valor {
+	font-size: 12px;
+	color: #666666;
+	text-align: left;
+	vertical-align: middle;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+
+}
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+	border: 1px solid #999999;
+	vertical-align: middle;
+	height: 20px;
+}
+.padrao {
+	font-style: italic;
+	color: #CCCCCC;
+}
+button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #333333;
+	text-align: center;
+	vertical-align: middle;
+	height: 20px;
+	border: 1px solid #666666;
+}
+.rodape {
+
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #666666;
+}
+.mensagens {
+	font-size: 10px;
+	color: #FF0000;
+	text-align: left;
+	vertical-align: top;
+}
+select {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+	border: 1px solid #999999;
+	vertical-align: middle;
+	height: 20px;
+}
+.fecha-borda1 {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCCCCC;
+}
+.imagem {
+	text-align: center;
+	vertical-align: middle;
+}
